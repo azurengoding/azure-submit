@@ -9,7 +9,7 @@
             font-family: Source Code Pro, monospace;
         }
     </style>
-<body>
+<body >
  
 <script type="text/javascript">
     function processImage() {
@@ -76,8 +76,8 @@
     };
 </script>
  
-<h1>Analyze image:</h1>
-Enter the URL to an image, then click the <strong>Analyze image</strong> button.
+<h1>Analisa Gambar:</h1>
+Silahkan masukan URL dari gambar yang akan di analisa, Kemudian tekan <strong>Analyze image</strong> button.
 <br><br>
 Image to analyze:
 <input type="text" name="inputImage" id="inputImage"
