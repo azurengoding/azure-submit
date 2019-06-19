@@ -33,10 +33,10 @@
 
 <body>
     <?php
-    $host = "nasyserver.database.windows.net";
-    $user = "naysadmin";
-    $pass = "emrizkiem1997_";
-    $db = "nasydatabase";
+    $host = "dicodingserverproject.database.windows.net";
+    $user = "azureadmin";
+    $pass = "27Sep20007";
+    $db = "registration";
 
     try {
         $koneksi = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
