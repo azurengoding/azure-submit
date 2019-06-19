@@ -81,7 +81,7 @@ Enter the URL to an image, then click the <strong>Analyze image</strong> button.
 <br><br>
 Image to analyze:
 <input type="text" name="inputImage" id="inputImage"
-    value="https://submissiondua.blob.core.windows.net/submission/a.jpeg" />
+    value="https://submissiondua.blob.core.windows.net/submission/IMG-20190619-WA0002.jpg" />
 <button onclick="processImage()">Analyze image</button>
 <br><br>
 <div id="wrapper" style="width:1020px; display:table;">
