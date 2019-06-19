@@ -57,7 +57,7 @@
     use MicrosoftAzure\Storage\Blob\Models\CreateContainerOptions;
     use MicrosoftAzure\Storage\Blob\Models\PublicAccessType;
 
-    $connectionString = "DefaultEndpointsProtocol=https;AccountName=nasystorage;AccountKey=SXWwmYuRwoohUvibFtYaOzZ8ivryEqiLWACOnt/ZgptfjkyF3AKeEjKqIP2sXfGOefQoeOBPBrQAo8ZMRV4unw==;";
+    $connectionString = "DefaultEndpointsProtocol=https;AccountName=submissiondua;AccountKey=0vmhOZ01yJmbfp7zrM2a/7ERoqweTJvgdZBFPRfkjATHYoZPcYLPArB4F6TbKTfltQOcWQXPD0+Iz3BErp5VMQ==;EndpointSuffix=core.windows.net";
 
     // Create blob client.
     $blobClient = BlobRestProxy::createBlobService($connectionString);
